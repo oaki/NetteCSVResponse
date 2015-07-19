@@ -1,0 +1,19 @@
+{
+  "name": "oaki/NetteCSVResponse",
+  "description": "NetteCSVResponse",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Pavol Bincik",
+      "email": "pavol@bincik.sk"
+    }
+  ],
+
+  "require": {
+    "php": ">= 5.3.7",
+    "nette/nette": "~2.3.0",
+    "nette/Application": "~2.3.0"
+  }
+}
